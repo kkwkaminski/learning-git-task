@@ -13,4 +13,5 @@ for shop, products in shopping_list.items():
     print(f"Idę do {shop} i kupuję tam {products}.")
 
 print(f"W sumie kupuję {items_number} produktów.")
+
 print("Dodany tekst w repo")
