@@ -14,3 +14,4 @@ for shop, products in shopping_list.items():
 print(f"W sumie kupuję {items_number} produktów.")
 
 print("Dodany tekst w repo ")
+print("Kolejny tekst")
