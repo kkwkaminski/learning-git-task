@@ -16,3 +16,4 @@ print(f"W sumie kupuję {items_number} produktów.")
 print("Dodany tekst w repo")
 
 print("Zmiana na test_branch")
+print("Zmiana w gałęzi test_branch")
